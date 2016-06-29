@@ -16,6 +16,7 @@ from plugins import crumbler
 from plugins import cookie_handler
 from plugins import autogroup
 from plugins import passwordpolicy
+from plugins import dynamicgroup
 
 #################################
 # pas monkies
